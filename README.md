@@ -1,4 +1,4 @@
-# AB_test_delivery_app
+# AB-test delivery app
 
 ## Приложение доставки
 
